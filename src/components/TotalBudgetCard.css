@@ -1,0 +1,14 @@
+.total-budget-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 20px; 
+  }
+  
+  .budget-card-wrapper {
+    flex: 10%;
+    margin-bottom: 10px;
+    margin-top:10px;
+    box-sizing: border-box; 
+  }
+  

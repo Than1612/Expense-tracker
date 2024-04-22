@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .expense-tracker-heading {
+    font-family: Arial;
+    color: navy;
+  }
+  
+  .add-budget-button {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid black;
+    color: black;
+  }
+  
+  .add-expense-button {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid black;
+  }
+  
+  .expense-card {
+    background-color: lightblue;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  
+  .budget-name {
+    color: navy;
+    font-weight: bold;
+  }
+  
+  .total-amount {
+    margin-bottom: 10px;
+  }
+  
+  .add-expense,
+  .view-expenses {
+    margin-right: 10px;
+  }
+  

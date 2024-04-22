@@ -1,0 +1,17 @@
+.chart {
+    padding : 1rem;
+    border-radius: 12px;
+    background-color:pink;   
+    text-align: center;
+    display: flex;
+    justify-content :space-around;
+    height: 10rem;
+    opacity: 0.85;
+}
+
+.chart-title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+
+  
